@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class VignetteTog : MonoBehaviour 
+public class VignetteToggle : MonoBehaviour 
 {
     [Header("Assign ONE of these in the Inspector")]
     [SerializeField] private MonoBehaviour targetComponent; // For components like Snap Turn Provider
