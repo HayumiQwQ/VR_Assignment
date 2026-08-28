@@ -1,0 +1,4 @@
+Due to the GitHub don't allow file larger than 25mb to be uploaded, GitHub desktop and GitHub LFS is needed to clone the repository for viewing the video.
+
+Below is the alternative to download the video via the google drive.
+https://drive.google.com/drive/u/5/folders/1vVTonD9XifnWJ42iWhgGc3L3Ve4My8a4
